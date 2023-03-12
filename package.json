@@ -1,5 +1,20 @@
 {
   "name": "fem-notifications",
   "version": "1.0.0",
-  "author": "Jordan Pagkalinawan"
+  "author": "Jordan Pagkalinawan",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
 }
